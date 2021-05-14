@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TimeTableManagementSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TimeTableManagementSystem_jar</output-path>
+    <root id="archive" name="TimeTableManagementSystem.jar">
+      <element id="module-output" name="TimeTableManagementSystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/libraries/charm-glisten-4.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/libraries/controlsfx-8.40.14 .jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/libraries/fontawesomefx-8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/libraries/itextpdf-5.5.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/libraries/jfoenix-8.0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/main/libraries/mysql-connector-java-8.0.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

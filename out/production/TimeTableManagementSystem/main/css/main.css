@@ -1,0 +1,24 @@
+.button{
+    -fx-background-color: #808B96;;
+}
+
+.button:hover{
+    -fx-background-color: #7E8796;
+}
+
+.button:pressed{
+    -fx-background-color: #A2A6AF;
+}
+
+.btnClose:hover{
+    -fx-background-color: #FF1010;
+}
+.button:focused{
+    -fx-background-color: #7156DD;
+    -fx-border-color: #CDD1D6;
+    -fx-border-width: 0px 0px 0px 3px;
+}
+
+.navBarButton:hover{
+    -fx-background-color: #808B96;
+}

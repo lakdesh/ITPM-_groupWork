@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="62.0" prefWidth="175.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.controller.WorkSchedule.WeekendController">
+   <children>
+      <CheckBox fx:id="checkSAT" layoutX="14.0" layoutY="26.0" lineSpacing="2.0" mnemonicParsing="false" onAction="#selectedDays" text="SAT" />
+      <CheckBox fx:id="checkSUN" layoutX="89.0" layoutY="26.0" lineSpacing="2.0" mnemonicParsing="false" onAction="#selectedDays" text="SUN" />
+   </children>
+</AnchorPane>
